@@ -1,4 +1,4 @@
-title: the Simplex theme
+title: Sueños
 logo_img: /assets/img/icons/golasblog_logo.svg
 favicon: /assets/favicon.ico
 description: description
@@ -20,4 +20,5 @@ defaults:
       path: ""
       type: category
     values:
+
       layout: "category"
